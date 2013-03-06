@@ -1,9 +1,5 @@
 Привет, Дима!
-<<<<<<< HEAD
 ya vash dom...
 first change
 ewe odin change
 mnoga-mnoga coda
-=======
-ya vash dom...
->>>>>>> parent of d0a282a... first change
